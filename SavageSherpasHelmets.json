@@ -1,0 +1,26 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Savage Sherpa Helmets",
+    "Icon": "Trader",
+    "Color": "EB3736FF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Sherpa_Helmet_Black",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 0,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Sherpa_Helmet_Pink",
+                "Sherpa_Helmet_Red",
+                "Sherpa_Helmet_Grey",
+                "Sherpa_Helmet_Carbonfiber"
+            ]
+        }
+    ]
+}
