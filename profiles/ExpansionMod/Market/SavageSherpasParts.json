@@ -1,1 +1,89 @@
 
+{
+    "m_Version": 12,
+    "DisplayName": "Savage Sherpa Parts",
+    "Icon": "Trader",
+    "Color": "EB3736FF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "SherpaSteeringWheel",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 0,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Sherpa_RearBag",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 0,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Sherpa_Scabbard",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 0,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Sherpa_TwoCycleOil_Bottle",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 0,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SavageSherpa_Hood",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 0,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SavageSherpa_Black_hood",
+                "SavageSherpa_Blue_hood",
+                "SavageSherpa_Brown_hood",
+                "SavageSherpa_Green_hood",
+                "SavageSherpa_Mint_hood",
+                "SavageSherpa_Pink_hood",
+                "SavageSherpa_Purple_hood",
+                "SavageSherpa_Red_hood",
+                "SavageSherpa_Savage_hood",
+                "SavageSherpa_Yellow_hood",
+                "SavageSherpa_White_hood"
+            ]
+        },
+        {
+            "ClassName": "SavageSherpa_Cargo_hood",
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 0,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
