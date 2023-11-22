@@ -1,81 +1,60 @@
 {
-    "m_Version": 12,
-    "DisplayName": "Savage Sherpas",
-    "Icon": "Trader",
-    "Color": "EB3736FF",
-    "IsExchange": 0,
-    "InitStockPercent": 100.0,
-    "Items": [
-        {
-            "ClassName": "SavageSherpa",
-            "MaxPriceThreshold": 1,
-            "MinPriceThreshold": 0,
-            "SellPricePercent": 1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "CarBattery",
-                "HeadlightH7",
-                "HeadlightH7",
-                "SparkPlug",
-                "SavageSherpa_hood"
-            ],
-            "Variants": [
-                "SavageSherpa_Black",
-                "SavageSherpa_Blue",
-                "SavageSherpa_Brown",
-                "SavageSherpa_Green",
-                "SavageSherpa_Mint",
-                "SavageSherpa_Pink",
-                "SavageSherpa_Purple",
-                "SavageSherpa_Red",
-                "SavageSherpa_Savage",
-                "SavageSherpa_Yellow",
-                "SavageSherpa_White"
-            ]
-        },
-        {
-            "ClassName": "SavageSherpa_Cargo",
-            "MaxPriceThreshold": 1,
-            "MinPriceThreshold": 0,
-            "SellPricePercent": 1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "CarBattery",
-                "HeadlightH7",
-                "HeadlightH7",
-                "SavageSherpa_Cargo_hood",
-                "SparkPlug"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "SavageSherpa_Sport_Black",
-            "MaxPriceThreshold": 1,
-            "MinPriceThreshold": 0,
-            "SellPricePercent": 1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "HeadlightH7",
-                "HeadlightH7",
-                "CarBattery",
-                "SparkPlug"
-
-            ],
-            "Variants": [
-                "SavageSherpa_Sport_Blue",
-                "SavageSherpa_Sport_Red",
-                "SavageSherpa_Sport_DeepRed",
-                "SavageSherpa_Sport_Pink",
-                "SavageSherpa_Sport_Purple",
-                "SavageSherpa_Sport_White",
-                "SavageSherpa_Sport_DiamondCut"
-            ]
-        }
-    ]
+    "m_Version": 6,
+    "m_DisplayName": "Savage Sherpas Trader Zone",
+    "Position": [
+        433.4570617675781,
+        421.68072509765627,
+        11182.7060546875
+    ],
+    "Radius": 100.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "savagesherpa_purple_hood": 1,
+        "sherpa_helmet_grey": 1,
+        "carbattery": 0,
+        "savagesherpa_yellow": 1,
+        "savagesherpa_yellow_hood": 1,
+        "savagesherpa_sport_white": 1,
+        "savagesherpa": 1,
+        "savagesherpa_red": 1,
+        "sherpa_rearbag": 1,
+        "savagesherpa_blue": 1,
+        "sherpa_helmet_red": 1,
+        "savagesherpa_sport_black": 1,
+        "savagesherpa_savage_hood": 1,
+        "savagesherpa_mint_hood": 1,
+        "sherpa_scabbard": 1,
+        "sherpa_helmet_carbonfiber": 1,
+        "savagesherpa_white": 1,
+        "savagesherpa_brown_hood": 1,
+        "savagesherpa_sport_purple": 1,
+        "savagesherpa_sport_blue": 1,
+        "savagesherpa_purple": 1,
+        "savagesherpa_green": 1,
+        "savagesherpa_black_hood": 1,
+        "savagesherpa_brown": 1,
+        "savagesherpa_hood": 1,
+        "savagesherpa_sport_pink": 1,
+        "savagesherpa_sport_diamondcut": 1,
+        "sparkplug": 0,
+        "savagesherpa_pink_hood": 1,
+        "savagesherpa_white_hood": 1,
+        "headlighth7": 0,
+        "savagesherpa_black": 1,
+        "savagesherpa_green_hood": 1,
+        "savagesherpa_blue_hood": 1,
+        "savagesherpa_sport_deepred": 1,
+        "savagesherpa_mint": 1,
+        "savagesherpa_savage": 1,
+        "savagesherpa_red_hood": 1,
+        "savagesherpa_cargo_hood": 1,
+        "sherpa_helmet_black": 1,
+        "sherpa_helmet_pink": 1,
+        "savagesherpa_pink": 1,
+        "sherpa_twocycleoil_bottle": 1,
+        "savagesherpa_sport_red": 1,
+        "savagesherpa_cargo": 1,
+        "sherpasteeringwheel": 1
+    }
 }
